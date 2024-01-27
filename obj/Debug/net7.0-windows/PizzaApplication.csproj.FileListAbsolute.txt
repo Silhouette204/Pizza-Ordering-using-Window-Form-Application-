@@ -1,0 +1,16 @@
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_10\PIZZA APPLICATION\PizzaApplication\PizzaApplication\bin\Debug\net7.0-windows\PizzaApplication.exe
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_10\PIZZA APPLICATION\PizzaApplication\PizzaApplication\bin\Debug\net7.0-windows\PizzaApplication.deps.json
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_10\PIZZA APPLICATION\PizzaApplication\PizzaApplication\bin\Debug\net7.0-windows\PizzaApplication.runtimeconfig.json
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_10\PIZZA APPLICATION\PizzaApplication\PizzaApplication\bin\Debug\net7.0-windows\PizzaApplication.dll
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_10\PIZZA APPLICATION\PizzaApplication\PizzaApplication\bin\Debug\net7.0-windows\PizzaApplication.pdb
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_10\PIZZA APPLICATION\PizzaApplication\PizzaApplication\obj\Debug\net7.0-windows\PizzaApplication.Form1.resources
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_10\PIZZA APPLICATION\PizzaApplication\PizzaApplication\obj\Debug\net7.0-windows\PizzaApplication.csproj.GenerateResource.cache
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_10\PIZZA APPLICATION\PizzaApplication\PizzaApplication\obj\Debug\net7.0-windows\PizzaApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_10\PIZZA APPLICATION\PizzaApplication\PizzaApplication\obj\Debug\net7.0-windows\PizzaApplication.AssemblyInfoInputs.cache
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_10\PIZZA APPLICATION\PizzaApplication\PizzaApplication\obj\Debug\net7.0-windows\PizzaApplication.AssemblyInfo.cs
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_10\PIZZA APPLICATION\PizzaApplication\PizzaApplication\obj\Debug\net7.0-windows\PizzaApplication.csproj.CoreCompileInputs.cache
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_10\PIZZA APPLICATION\PizzaApplication\PizzaApplication\obj\Debug\net7.0-windows\PizzaApplication.dll
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_10\PIZZA APPLICATION\PizzaApplication\PizzaApplication\obj\Debug\net7.0-windows\refint\PizzaApplication.dll
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_10\PIZZA APPLICATION\PizzaApplication\PizzaApplication\obj\Debug\net7.0-windows\PizzaApplication.pdb
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_10\PIZZA APPLICATION\PizzaApplication\PizzaApplication\obj\Debug\net7.0-windows\PizzaApplication.genruntimeconfig.cache
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_10\PIZZA APPLICATION\PizzaApplication\PizzaApplication\obj\Debug\net7.0-windows\ref\PizzaApplication.dll

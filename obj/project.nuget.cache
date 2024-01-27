@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ec9+LBZIhDhIphKcMUqzju90gi2LXI+7tPcJBVVwRah2F8ZRHc8ol9uOGwrzFGQTg3n29PyKCpIqqhKHNPRIKg==",
+  "success": true,
+  "projectFilePath": "D:\\2ND YEAR 1ST SEM\\Objected Oriented Programming\\FINAL TERM\\ACTIVITIES AND QUIZZES\\MP_10\\PIZZA APPLICATION\\PizzaApplication\\PizzaApplication\\PizzaApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BURCE RESIDENCE\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\BURCE RESIDENCE\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\BURCE RESIDENCE\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\BURCE RESIDENCE\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
